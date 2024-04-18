@@ -386,6 +386,10 @@ iframe{
         margin-top: 2em;
     }
 
+    .info p{
+        font-size: 1em;
+    }
+
     .rds{
         width: 20em;
     }
